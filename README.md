@@ -35,9 +35,3 @@
 - **Game Over**: Once a player wins or a draw occurs, the game ends, and a message is displayed indicating the result (e.g., "Player X wins!", "Player O wins!", or "It's a draw!").
 - **Reset Button**: A button that allows players to reset the game and start a new round.
 
-##  How to Play
-- Press any "key" to start the game.
-- Watch the sequence of flashing colored tiles.
-- Repeat the sequence by clicking on the tiles in the same order.
-- If you reproduce the sequence correctly, you advance to the next level.
-- If you make a mistake, the game ends.
