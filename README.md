@@ -1,4 +1,4 @@
-## 🌟Tic-Tac-Toe Game Using HTML,CSS & JAVASCRIPT 
+## 🌟Tic-Tac-Toe Game Using HTML,CSS & JavaScript
 
 ## A Tic-Tac-Toe game built using HTML, CSS, and JavaScript is a classic beginner-friendly project that helps solidify fundamental web development concepts. Here's a project description outlining the key features.
 ---
